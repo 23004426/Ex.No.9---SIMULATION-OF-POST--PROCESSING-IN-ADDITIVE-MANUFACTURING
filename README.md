@@ -55,6 +55,7 @@
 ![Screenshot 2023-12-19 122131](https://github.com/23004426/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979327/44657724-f7cb-4c52-875f-58bef95500e9)
 
 ## Output:
+![output](https://github.com/23004426/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979327/3a16055f-7396-4ebf-825f-77281241fe4a)
 
 ### Name: Tirupathi Jayadeep
 ### Register Number: 23004426
